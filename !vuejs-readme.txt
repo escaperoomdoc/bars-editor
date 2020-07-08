@@ -20,11 +20,8 @@
 7. Ставим vuetify (готовые компоненты со стилями)
 	vue add vuetify
 	
-	
+
+
+to view:
 - scrimba
-	
-	
-	
-	nuxtJs
-	
-	
+- https://vuejs.org/v2/guide/#Declarative-Rendering
