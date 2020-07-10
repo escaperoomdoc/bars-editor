@@ -7,7 +7,7 @@ import axios from 'axios'
 import panZoom from 'vue-panzoom'
 
 Vue.config.productionTip = false;
-axios.defaults.baseURL = 'http://localhost';
+axios.defaults.baseURL = 'http://192.168.0.100';
 Vue.use(panZoom);
 
 new Vue({
